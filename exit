@@ -1,0 +1,67 @@
+[33mcommit 12834cf6178acfa626286e1b0875a187995aa626[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: ahmetekiz <ekizoahmet9@gmail.com>
+Date:   Sun May 1 18:56:40 2022 +0300
+
+    LSTM expected input added
+
+[33mcommit 7486bd548bda2f5d8b8856c91be71ba6685d9958[m
+Author: ahmetekiz <ekizoahmet9@gmail.com>
+Date:   Sat Apr 30 18:14:46 2022 +0300
+
+    continue 11.Test in real time
+
+[33mcommit 57b958fd0a5d6e143efc55b62956cdd603df55f3[m
+Author: ahmetekiz <ekizoahmet9@gmail.com>
+Date:   Sat Apr 30 18:04:04 2022 +0300
+
+    training done 2
+
+[33mcommit 414276faa338dbbc239824079a1356a43dee2725[m
+Author: ahmetekiz <ekizoahmet9@gmail.com>
+Date:   Sat Apr 30 16:32:22 2022 +0300
+
+    first training done
+
+[33mcommit 34a80705fdf5a12ecca3cce314489bfc8eebd525[m
+Author: ahmetekiz <ekizoahmet9@gmail.com>
+Date:   Sat Apr 30 15:15:18 2022 +0300
+
+    FPS counter added
+
+[33mcommit df98c5e92e62159b466cbc61ffb8942e175b5665[m
+Author: ahmetekiz <ekizoahmet9@gmail.com>
+Date:   Fri Apr 29 16:31:53 2022 +0300
+
+    7.Train LSTM Completed
+    
+    Results of LSTM not expected.
+
+[33mcommit 42e86587c56c8eb421168836b9fba9d537a5b21b[m
+Author: ahmetekiz <ekizoahmet9@gmail.com>
+Date:   Thu Apr 28 23:19:35 2022 +0300
+
+    data collected
+
+[33mcommit d67cdd5dad19a0fb907e33a2b392d42a6cf86ec8[m
+Author: ahmetekiz <ekizoahmet9@gmail.com>
+Date:   Thu Apr 28 21:32:56 2022 +0300
+
+    action transition fixed
+
+[33mcommit 8b34f6e5eb2b7f5e32870856ea66c857254a4dab[m
+Author: ahmetekiz <ekizoahmet9@gmail.com>
+Date:   Thu Apr 28 21:13:25 2022 +0300
+
+    countdown added before collecting
+
+[33mcommit db42f232dff7d930a43581165f19213893cfa17c[m
+Author: ahmetekiz <ekizoahmet9@gmail.com>
+Date:   Thu Apr 28 20:33:45 2022 +0300
+
+    progress bar added
+
+[33mcommit 4a858cf50bd34f0304a40248a6033f0eddd740bd[m
+Author: ahmetekiz <ekizoahmet9@gmail.com>
+Date:   Thu Apr 28 14:51:18 2022 +0300
+
+    3. Extract Keypoints
